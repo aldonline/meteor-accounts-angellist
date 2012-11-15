@@ -1,0 +1,8 @@
+{
+    "name": "accounts-angellist",
+    "description":  "Login service for Angel List accounts.",
+    "homepage": "https://github.com/aldonline/meteor-accounts-angellist",
+    "author": "Aldo Bucchi",
+    "version": "0.0.1",
+    "git": "https://github.com/aldonline/meteor-accounts-angellist.git"
+}
